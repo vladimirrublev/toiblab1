@@ -1,5 +1,5 @@
 # toiblab1
-# На ВМ1 был развернут сервис keycloak с помощью docker контейнера
+# Установка Docker Keycloak на  В.М.
 ![image](https://github.com/vladimirrublev/toiblab1/blob/main/screenshot/1.1.PNG)
 ![image](https://github.com/vladimirrublev/toiblab1/blob/main/screenshot/1.2.PNG)
 ![image](https://github.com/vladimirrublev/toiblab1/blob/main/screenshot/1.PNG))
@@ -9,7 +9,7 @@
 ![image](https://github.com/vladimirrublev/toiblab1/blob/main/screenshot/2.1.PNG)
 ![image](https://github.com/vladimirrublev/toiblab1/blob/main/screenshot/2.2.PNG)
 ![image](https://github.com/vladimirrublev/toiblab1/blob/main/screenshot/2.PNG)
-# Скачиваем docker
+# docker
 ![image](https://github.com/vladimirrublev/toiblab1/blob/main/screenshot/3.0.PNG)
 ![image](https://github.com/vladimirrublev/toiblab1/blob/main/screenshot/3.1.PNG)
 # Keycloak
